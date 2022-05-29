@@ -118,7 +118,7 @@ body {
   font-size: 18px;
   padding-left: 10px;
   box-sizing: border-box;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 /* Completed */
@@ -128,7 +128,7 @@ body {
 }
 
 .todo-block__item .input-text {
-  display: none
+  display: none;
 }
 
 .todo-block__item.edit-mode .input-text {
